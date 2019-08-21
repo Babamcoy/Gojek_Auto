@@ -1,6 +1,6 @@
 Auto Register Gojek
 
-Cara penggunaan
+Cara penggunaan :
 
 pkg update && pkg upgrade
 
